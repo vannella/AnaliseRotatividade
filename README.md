@@ -16,7 +16,7 @@
 
 <br>
 
-**Habientes/Ferramentas utilizados para as Análises:**
+**Ambientes/Ferramentas utilizados para as Análises:**
 * *Colab Notebook*
 * *Looker Studio*
 * *Planilha Excel*
