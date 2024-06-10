@@ -1,7 +1,7 @@
 # Análise da Rotatividade De Funcionários
 **Data Viking - 1° Desafio de dados: Recursos Humanos.**
 
-*Geração dos Dados*
+*Geração dos Dados:*
 
 *  *Os dados foram gerados baseados no négocio.*
 *   *Empresa de Tecnologia | Software House.*
@@ -10,7 +10,7 @@
 
 <br>
 
-**Habientes/Ferramentas utilizados para as Análises**
+**Habientes/Ferramentas utilizados para as Análises:**
 * *Colab Notebook*
 * *Looker Studio*
 * *Planilha Excel*
