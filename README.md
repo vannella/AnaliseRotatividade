@@ -1,9 +1,10 @@
+<div align="center">
+  <h1>Análise da Rotatividade De Funcionários</h1>
+</div>
+
 <p align="center">
-  <img src="https://media1.tenor.com/m/NqICjiecSfkAAAAd/leaving-job-i-think-you-should-leave-with-tim-robinson.gif" alt="lofi.gif" align="right" width="250" height="250">
+  <img src="https://media1.tenor.com/m/NqICjiecSfkAAAAd/leaving-job-i-think-you-should-leave-with-tim-robinson.gif" alt="lofi.gif" align="right" width="200" height="200">
 </p>
-
-
-# Análise da Rotatividade De Funcionários</h1>
   <h2>Categoria: Estudo</h2>
   Esta análise foi realizada a partir de um desafio proposto pela 
   
