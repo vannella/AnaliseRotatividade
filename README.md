@@ -6,12 +6,11 @@
   <img src="https://media1.tenor.com/m/NqICjiecSfkAAAAd/leaving-job-i-think-you-should-leave-with-tim-robinson.gif" alt="lofi.gif" align="right" width="200" height="200">
 </p>
   <h2>Categoria: Estudo</h2>
-  Esta análise foi realizada a partir de um desafio proposto pela 
   
+  < Esta análise foi realizada a partir de um desafio proposto pela 
   [Data Viking](https://www.linkedin.com/posts/data-viking_1%C2%BA-desafio-de-dados-by-data-viking-activity-7195747152193581056-WPrF?utm_source=share&utm_medium=member_desktop)
-  sobre a rotatividade em uma empresa de tecnologia.<br>
-  O objetivo era mitigar o problema e gerar insights relevantes a pedido <br>
-  do departamento de Recursos Humanos.
+  sobre a rotatividade em uma empresa de tecnologia.
+  O objetivo era mitigar o problema e gerar insights relevantes a pedido do departamento de Recursos Humanos.</p>
 
 <br>
 
