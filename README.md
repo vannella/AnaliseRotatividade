@@ -3,7 +3,7 @@
 </div>
 
   <h2>Categoria: Estudo</h2><p align="center">
-  <img src="https://media1.tenor.com/m/NqICjiecSfkAAAAd/leaving-job-i-think-you-should-leave-with-tim-robinson.gif" alt="lofi.gif" align="right" width="170" height="150">
+  <img src="https://media1.tenor.com/m/NqICjiecSfkAAAAd/leaving-job-i-think-you-should-leave-with-tim-robinson.gif" alt="lofi.gif" align="right" width="200" height="160">
 </p>
   
   < Esta análise foi realizada a partir de um desafio proposto pela 
