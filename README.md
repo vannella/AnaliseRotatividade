@@ -2,6 +2,7 @@
   <h1>Análise da Rotatividade De Funcionários</h1>
 </div>
 
+> ⚠ Status da análise: Não concluída, em ajustes.
   <h2>Categoria: Estudo</h2>
   
   < Esta análise foi realizada a partir de um desafio proposto pela 
