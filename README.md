@@ -33,7 +33,7 @@ Criar novos talentos
   <img src="https://media1.tenor.com/m/NqICjiecSfkAAAAd/leaving-job-i-think-you-should-leave-with-tim-robinson.gif" alt="lofi.gif"  width="200" height="160">
 </p>
 
-### Ambientes/Ferramentas utilizados para as Análises:
+### Habilidades/Ferramentas utilizados para as Análises:
 * Colab Notebook
 * Planilha Excel
 * Python
