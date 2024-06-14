@@ -9,8 +9,8 @@
   Esta análise foi realizada a partir de um desafio proposto pela 
   
   [Data Viking](https://www.linkedin.com/posts/data-viking_1%C2%BA-desafio-de-dados-by-data-viking-activity-7195747152193581056-WPrF?utm_source=share&utm_medium=member_desktop)
-  sobre a rotatividade em uma empresa de tecnologia.
-  O objetivo era mitigar o problema e gerar insights relevantes a pedido
+  sobre a rotatividade em uma empresa de tecnologia.<br>
+  O objetivo era mitigar o problema e gerar insights relevantes a pedido <br>
   do departamento de Recursos Humanos.
 
 <br>
