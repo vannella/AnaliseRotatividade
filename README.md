@@ -1,9 +1,6 @@
 <div align="center">
   <h1>Análise da Rotatividade De Funcionários</h1>
 </div>
-
-> ⚠ Status da análise: Não concluída, em ajustes.
-  <h2>Categoria: Estudo</h2>
   
   < Esta análise foi realizada a partir de um desafio proposto pela 
   [Data Viking](https://www.linkedin.com/posts/data-viking_1%C2%BA-desafio-de-dados-by-data-viking-activity-7195747152193581056-WPrF?utm_source=share&utm_medium=member_desktop)
