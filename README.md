@@ -50,5 +50,8 @@ Usar machine learning para prever a saída de funcionários. Treinando algoritmo
 Esta experiência foi incrível e me motivou a estudar ainda mais. Estou ansioso para aprofundar meus conhecimentos em análise de dados e continuar contribuindo de maneira significativa para solucionar desafios como a rotatividade.<br>
 > Como disse Ralph Waldo Emerson: *"Aquilo que persistimos em fazer torna-se mais fácil, não porque a natureza da coisa mudou, mas porque mudamos nós mesmos".*
 
+
+Dito isso, sintam-se à vontade para comentar e dar sugestões. Ficarei feliz em receber feedback e aprender com suas ideias. 📬📧
+
 Autora: [Giovana Fernanda](https://github.com/GiovanaMerces)
    
