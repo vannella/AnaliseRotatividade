@@ -36,7 +36,7 @@ Este estudo, proposto pela [Data Viking](https://www.linkedin.com/posts/data-vik
 
 <br>
 
-<div align="left">
+<div align="center">
   <img src="https://media1.tenor.com/m/NqICjiecSfkAAAAd/leaving-job-i-think-you-should-leave-with-tim-robinson.gif" alt="lofi.gif"  width="200" height="160">
 </div>
 
