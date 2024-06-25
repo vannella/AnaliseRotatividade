@@ -41,7 +41,7 @@ Este estudo, proposto pela [Data Viking](https://www.linkedin.com/posts/data-vik
 </div>
 
 ### Próximos Passos
-Usaremos machine learning para prever a saída de funcionários. Treinando algoritmos, identificaremos quem está em risco, permitindo ações preventivas para melhorar a retenção.
+Usar machine learning para prever a saída de funcionários. Treinando algoritmos, identificaremos quem está em risco, permitindo ações preventivas para melhorar a retenção.
 
 <br>
 
