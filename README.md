@@ -2,11 +2,12 @@
   <h1>Análise da Rotatividade De Funcionários</h1>
 </div>
 
-  Estudo para reduzir rotatividade em empresa de tecnologia, proposto pela [Data Viking](https://www.linkedin.com/posts/data-viking_1%C2%BA-desafio-de-dados-by-data-viking-activity-7195747152193581056-WPrF?utm_source=share&utm_medium=member_desktop). Objetivo: identificar problemas e insights para RH.
-
+  
+Este estudo, proposto pela [Data Viking](https://www.linkedin.com/posts/data-viking_1%C2%BA-desafio-de-dados-by-data-viking-activity-7195747152193581056-WPrF?utm_source=share&utm_medium=member_desktop) para reduzir a rotatividade em uma empresa de tecnologia, é uma oportunidade para mim, que estou começando, aprender sobre como realizar análises de dados. Estou genuinamente interessado em contribuir com insights valiosos para o departamento de Recursos Humanos após conduzir esta análise.
+ 
 <br>
 
-👉🏻 Veja aqui [analise de rotatividade]()
+👉🏻 Veja aqui [analise de rotatividade](https://github.com/GiovanaMerces/AnaliseRotatividade/blob/main/rotatividade2.ipynb)
 
 <br>
 
@@ -43,7 +44,11 @@
 Usaremos machine learning para prever a saída de funcionários. Treinando algoritmos, identificaremos quem está em risco, permitindo ações preventivas para melhorar a retenção.
 
 <br>
-<br>
+
+ ---
+
+Esta experiência foi incrível e me motivou a estudar ainda mais. Estou ansioso para aprofundar meus conhecimentos em análise de dados e continuar contribuindo de maneira significativa para solucionar desafios como a rotatividade.<br>
+> Como disse Ralph Waldo Emerson: *"Aquilo que persistimos em fazer torna-se mais fácil, não porque a natureza da coisa mudou, mas porque mudamos nós mesmos".*
 
 Autora: [Giovana Fernanda](https://github.com/GiovanaMerces)
    
