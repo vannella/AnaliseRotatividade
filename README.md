@@ -52,7 +52,7 @@ Usar machine learning para prever a saída de funcionários. Treinando algoritmo
 Este repositório tem a humilde finalidade de compartilhar conhecimentos e entendimentos em análise de dados, buscando promover um ambiente colaborativo para aprendizado contínuo.<br>
 
 
-Esta experiência foi incrível e me motivou a estudar ainda mais. Estou ansioso para aprofundar meus conhecimentos em análise de dados e continuar contribuindo de maneira significativa para solucionar desafios como a rotatividade.
+Esta jornada tem sido verdadeiramente inspiradora, impulsionando-me a buscar constantemente aprimorar meus conhecimentos. Estou dedicado a contribuir de maneira significativa para abordar desafios complexos, como a rotatividade.
 
 <br>
 
