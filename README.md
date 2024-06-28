@@ -7,7 +7,7 @@ Este estudo, proposto pela [Data Viking](https://www.linkedin.com/posts/data-vik
  
 <br>
 
-👉🏻 Veja aqui [analise de rotatividade](https://github.com/GiovanaMerces/AnaliseRotatividade/blob/main/rotatividade2.ipynb)
+👉🏻 Veja aqui [analise de rotatividade](https://github.com/Vannella/AnaliseRotatividade/blob/main/rotatividade2.ipynb)
 
 <br>
 
@@ -62,5 +62,5 @@ Esta jornada tem sido verdadeiramente inspiradora, impulsionando-me a buscar con
 
 Dito isso, sintam-se à vontade para comentar e dar sugestões. Ficarei feliz em receber feedback e aprender com suas ideias. 📬📧
 
-Autora: [Giovana Fernanda](https://github.com/GiovanaMerces)
+Autora: [Giovana Fernanda](https://github.com/Vannella)
    
