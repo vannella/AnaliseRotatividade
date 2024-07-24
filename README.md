@@ -62,5 +62,15 @@ Esta jornada tem sido verdadeiramente inspiradora, impulsionando-me a buscar con
 
 Dito isso, sintam-se à vontade para comentar e dar sugestões. Ficarei feliz em receber feedback e aprender com suas ideias. 📬📧
 
-Autor: [Giovana Fernanda](https://github.com/Vannella)
+
+<div align="center">
+<h5>Feito por Vana💜</h5>
+ <a href="https://github.com/Vannella">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub">
+   </a>
+   
+   <a href="https://giovanavannela@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=purple" alt="email"/><br>
+   </a>
+</div>
    
